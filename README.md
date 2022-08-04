@@ -12,11 +12,11 @@ These are all algorithms including the following:
 9. Self-Taught Learning Encoder
 
 Summary on the development of algorithms:
-KNN Regression:
-Ridge Regression with SGD and BGD:
-Multiclass Perceptron:
-Bayesian Classifier:
-Logistic Regression:
-EM algorithm for document clustering:
-Neural Network:
-Self-Taught Encoder:
+- KNN Regression:
+- Ridge Regression with SGD and BGD:
+- Multiclass Perceptron:
+- Bayesian Classifier:
+- Logistic Regression:
+- EM algorithm for document clustering:
+- Neural Network:
+- Self-Taught Encoder:
