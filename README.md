@@ -7,6 +7,16 @@ These are all algorithms including the following:
 4. Ridge regression on SGD and BGD
 5. Multicalss Perceptron
 6. Bayasian Classifier vs Logistic Regression
-7. Expectation-Maximization on document clustering
+7. Expectation-Maximization (EM) on document clustering
 8. Neural Network vs Perceptron
-9. 
+9. Self-Taught Learning Encoder
+
+Summary on the development of algorithms:
+KNN Regression:
+Ridge Regression with SGD and BGD:
+Multiclass Perceptron:
+Bayesian Classifier:
+Logistic Regression:
+EM algorithm for document clustering:
+Neural Network:
+Self-Taught Encoder:
